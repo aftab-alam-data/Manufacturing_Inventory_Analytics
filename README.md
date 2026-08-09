@@ -93,9 +93,9 @@ The dashboard includes KPI cards, line charts, column charts, bar charts, donut 
 ## Files Included
 
 - `01_Raw_Data/`: source datasets in Excel/CSV format
-- `02_Excel_Analysis/Manufacturing_Inventory_Analysis.xlsx.xlsx`: Excel analysis workbook
+- `02_Excel_Analysis/Manufacturing_Inventory_Analysis.xlsx`: Excel analysis workbook
 - `03_SQL/01_SQL_Scripts/01_Business_Analysis.sql`: final corrected SQL analysis script
-- `04_PowerBI/Manufacturing_Inventory_Analysis_PowerBI.pbix.pbix`: Power BI report file
+- `04_PowerBI/Manufacturing_Inventory_Analysis_PowerBI.pbix`: Power BI report file
 - `05_Project_Documentation/`: project documentation and verified metrics
 
 ## Verification Notes
