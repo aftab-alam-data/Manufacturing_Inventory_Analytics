@@ -1,0 +1,26 @@
+﻿Material_ID,Material_Name,Material_Category,Unit_of_Measure,Standard_Unit_Cost,Reorder_Level,Material_Status
+RM001,Fan Motor,Electrical,Pcs,650,100,Active
+RM002,Fan Blade Set,Plastic,Pcs,180,150,Active
+RM003,Fan Body Assembly,Plastic,Pcs,320,100,Active
+RM004,Fan Guard Set,Metal,Pcs,240,100,Active
+RM005,Pedestal Stand Assembly,Metal,Pcs,420,60,Active
+RM006,Power Cord,Electrical,Pcs,85,200,Active
+RM007,Speed Control Switch,Electrical,Pcs,110,150,Active
+RM008,Capacitor,Electrical,Pcs,45,300,Active
+RM009,Bearing,Mechanical,Pcs,70,250,Active
+RM010,Copper Wire,Electrical,Kg,780,50,Active
+RM011,Plastic Granules,Plastic,Kg,125,200,Active
+RM012,Steel Sheet,Metal,Kg,95,300,Active
+RM013,Heating Element,Electrical,Pcs,480,100,Active
+RM014,Geyser Inner Tank,Metal,Pcs,1450,50,Active
+RM015,Thermostat,Electrical,Pcs,260,100,Active
+RM016,Safety Valve,Mechanical,Pcs,180,100,Active
+RM017,Insulation Material,Insulation,Kg,210,80,Active
+RM018,Outer Body Assembly,Metal,Pcs,620,60,Active
+RM019,Quartz Heating Tube,Electrical,Pcs,190,150,Active
+RM020,Heating Coil,Electrical,Pcs,350,100,Active
+RM021,Plastic Knob,Plastic,Pcs,35,300,Active
+RM022,Screw and Fastener Set,Hardware,Set,55,300,Active
+RM023,Product Packaging Box,Packaging,Pcs,65,250,Active
+RM024,User Manual and Label Set,Packaging,Set,18,500,Active
+RM025,Protective Packaging Material,Packaging,Pcs,32,300,Active

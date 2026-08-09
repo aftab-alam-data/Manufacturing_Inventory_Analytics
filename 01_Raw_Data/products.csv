@@ -1,0 +1,13 @@
+﻿Product_ID,Product_Name,Product_Category,Model_Name,Unit_Price,Standard_Production_Cost,Reorder_Level,Product_Status
+P001,Brizstar Farrata 20,Farrata Fan,Brizstar 20,3299,2180,60,Active
+P002,High Speed Personal Fan,Personal Fan,Personal 300,1899,1220,80,Active
+P003,High Speed Wall Fan,Wall Fan,Wall 400,2799,1840,70,Active
+P004,High Speed Table Fan,Table Fan,Table 400,2599,1690,75,Active
+P005,High Speed Pedestal Fan,Pedestal Fan,Pedestal 400,3499,2310,50,Active
+P006,Heavy Duty Exhaust Fan,Exhaust Fan,Exhaust 300,2299,1480,65,Active
+P007,Air Flow Ventilation Fan,Ventilation Fan,Ventilation 250,1999,1270,70,Active
+P008,Industrial Axial Fan,Axial Fan,Axial 450,5499,3710,30,Active
+P009,Instant Water Geyser,Geyser,Instant 3L,4499,3020,40,Active
+P010,Storage Water Geyser,Geyser,Storage 15L,7499,5140,30,Active
+P011,Quartz Room Heater,Heater,Quartz 800,2199,1390,60,Active
+P012,Heat Convector,Heater,Convector 2000,3799,2480,45,Active

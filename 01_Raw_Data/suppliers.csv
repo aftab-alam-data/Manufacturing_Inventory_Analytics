@@ -1,0 +1,29 @@
+﻿Supplier_ID,Supplier_Name,Supplier_Category,City,State,Payment_Terms_Days,Supplier_Status
+S001,JK Industries,Electrical Components,Bawana,Delhi,30,Active
+S002,VK Enterprises,Plastic Components,Delhi,Delhi,30,Active
+S003,MGV Exports Pvt Ltd,Plastic Components,Kundli,Haryana,45,Active
+S004,Vizag Plastics,Plastic Components,Delhi,Delhi,30,Active
+S005,Himani Industries,Metal Components,Delhi,Delhi,30,Active
+S006,SAI Industries,Metal Components,Delhi,Delhi,30,Active
+S007,OM Industries,Metal Components,Delhi,Delhi,45,Active
+S008,RR Industries,Metal Components,Agra,Uttar Pradesh,45,Active
+S009,Concord Industries,Electrical Components,Delhi,Delhi,30,Active
+S010,Preeti Electricals,Electrical Components,Delhi,Delhi,30,Active
+S011,Tuffcore Private Limited,Electrical and Plastic Components,Delhi,Delhi,45,Active
+S012,Faridabad Sales Corporation,Mechanical Components,Faridabad,Haryana,30,Active
+S013,Sterling Enamelled Wires,Electrical Components,Ghaziabad,Uttar Pradesh,45,Active
+S014,SK Wire Industries,Electrical Components,Ghaziabad,Uttar Pradesh,30,Active
+S015,Batra Enterprises,Plastic Raw Material,Delhi,Delhi,30,Active
+S016,RK Enterprises,Metal Raw Material,Tri Nagar,Delhi,45,Active
+S017,Vardhman Wireforms,Heating Components,Kundli,Haryana,45,Active
+S018,Vardhman Engineering,Geyser Components,Delhi,Delhi,60,Active
+S019,SB Enterprises,Geyser Components,Delhi,Delhi,30,Active
+S020,SG Industries,Geyser Components,Rai,Haryana,45,Active
+S021,DK Brothers,Insulation Material,Delhi,Delhi,30,Active
+S022,Manish Packers,Packaging Components,Kundli,Haryana,30,Active
+S023,PRG International Pvt Ltd,Heating Components,Uttar Pradesh,Uttar Pradesh,45,Active
+S024,Universal Fasteners,Hardware Components,Chandigarh,Chandigarh,30,Active
+S025,Ingenious Print N Pack,Packaging Materials,Kundli,Haryana,30,Active
+S026,Manu International,Printing and Labels,Delhi,Delhi,30,Active
+S027,Ranjan Packaging,Packaging Materials,Delhi,Delhi,30,Active
+S028,S Kumar Tubes,Heating Components,Bawana,Delhi,30,Active
