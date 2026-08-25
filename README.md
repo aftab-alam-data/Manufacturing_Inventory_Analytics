@@ -82,6 +82,20 @@ The Power BI report includes three verified pages:
 
 The dashboard includes KPI cards, line charts, column charts, bar charts, donut chart, table visual, and product slicer.
 
+#### Dashboard Screenshots
+
+**Purchase Quantity Analysis**
+
+![Purchase Quantity Analysis](04_PowerBI/Purchase_Quantity_Analysis.png)
+
+**Purchase Value Analysis**
+
+![Purchase Value Analysis](04_PowerBI/Purchase_Values_Analysis.png)
+
+**Production Quantity Analysis**
+
+![Production Quantity Analysis](04_PowerBI/Productions_Quantity_Analysis.png)
+
 ## Business Insights
 
 - Total purchase value for 2025 was approximately 67.24M after applying discount and GST.
